@@ -13,6 +13,7 @@ AWS Services:
 	           Auto Scaling
 
 Instance :
+
 <img width="828" height="362" alt="template" src="https://github.com/user-attachments/assets/580abd82-f3e3-450b-9c48-bed203211f9c" />
 
 Autoscaling Group :
