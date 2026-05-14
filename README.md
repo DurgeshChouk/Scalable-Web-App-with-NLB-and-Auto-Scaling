@@ -4,7 +4,9 @@ AWS project demonstrating scalable web hosting using Network Load Balancer and A
 This repository showcases the deployment of a scalable web application using AWS Network Load Balancer (NLB) with Auto Scaling. The setup is optimized for handling high-performance and low-latency traffic workloads. EC2 instances automatically scale according to application demand, ensuring high availability and reliability. The project demonstrates practical implementation of AWS networking, traffic distribution, health checks, and infrastructure scalability concepts commonly used in modern cloud-native environments.
 
 NLB = Network Load Balancer
+
 Purpose: Handle very high-performance / low-latency traffic
+
 AWS Services:
 	           Amazon EC2
 	           Network Load Balancer
